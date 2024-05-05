@@ -122,7 +122,7 @@ export default function NavbarComponent() {
               className="w-full text-white-700 group-hover:bg-accent"
               color={
                 index === 2
-                  ? "warning"
+                  ? "success"
                   : index === menuItems.length - 1
                   ? "danger"
                   : "foreground"
