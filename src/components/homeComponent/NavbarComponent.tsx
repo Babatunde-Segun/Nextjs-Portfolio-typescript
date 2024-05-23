@@ -59,7 +59,7 @@ export default function NavbarComponent() {
       >
         <NavbarBrand className="mr-2 sm:mr-[12rem]">
           {/* <AcmeLogo /> */}
-          {/*  */}
+          {/* no 5 */}
           {/* <p className="font-bold text-inherit lg:text-2xl">ACME</p> */}
           {/* <img
             src={logo}
